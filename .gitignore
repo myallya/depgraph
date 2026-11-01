@@ -1,0 +1,17 @@
+pycache/
+*.py[cod]
+*.so
+.Python
+venv/
+.venv/
+.env/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+*.png
+*.svg
+*.dot
+*.tar.gz
+APKINDEX
+.pytest_cache/
